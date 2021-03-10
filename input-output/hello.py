@@ -1,2 +1,4 @@
-def hello_world():
-    return "Hello World!"
+def hello_world(x, y):
+    print (x, y,'!')
+
+hello_world('Hello', 'World') 
